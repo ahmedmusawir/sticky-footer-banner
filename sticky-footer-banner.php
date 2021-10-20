@@ -24,6 +24,6 @@ $enqueue = new CPF\Base\Enqueue();
 $enqueue->initialize();
 
 // TESTING DYNAMIC EXP DATE SHORTCODE
-// $social_shortcode = new CPF\Shortcode\DateExpireTomorrow();
+$social_shortcode = new CPF\Shortcode\DateExpireTomorrow();
 // TESTING FIXED FOOTER CODE
 $fixed_footer_ac = new CPF\Widgets\StickyFooterFixed();
