@@ -1,2 +1,2 @@
-# sticky-footer-banner
-CPF Plugin that will create a moving bottom banner (scroll event) and make a next day expiry shortcode
+# cyberize-plugin-framework-3
+This is the latest CPF with OOP PHP, Composer, Namespace, Gulp JS, OOP JS, SCSS &amp; React
